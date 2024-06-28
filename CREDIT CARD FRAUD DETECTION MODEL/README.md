@@ -1,1 +1,1 @@
-The link  for te DATASET of following project: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+The link  for the DATASET of following project: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
