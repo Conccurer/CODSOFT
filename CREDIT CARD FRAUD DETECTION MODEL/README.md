@@ -83,3 +83,9 @@ git clone https://github.com/Conccurer/Credit-Card-Fraud-Detection.git
 cd Credit-Card-Fraud-Detection
 jupyter notebook Credit_Card_Fraud_Detection.ipynb
 ```
+## Conclusion
+
+This project demonstrates how machine learning can be applied to the task of credit card fraud detection. The final model provides a robust solution that can be further improved and deployed in real-world applications. Future work could involve exploring more advanced techniques such as deep learning models or real-time fraud detection systems.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or improvements.
