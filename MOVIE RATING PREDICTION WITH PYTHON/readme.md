@@ -75,9 +75,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 The final model achieved the following results:
 
-- **Mean Absolute Error (MAE)**: [Insert MAE]
-- **Mean Squared Error (MSE)**: [Insert MSE]
-- **R-squared**: [Insert R-squared]
+- **Mean Absolute Error (MAE)**: 1.0323349232393277
+- **Mean Squared Error (MSE)**: 1.7090756243225456
+- **R-squared**: 0.07847730153185828
 
 These results demonstrate the model's effectiveness in predicting movie ratings with a reasonable degree of accuracy.
 
