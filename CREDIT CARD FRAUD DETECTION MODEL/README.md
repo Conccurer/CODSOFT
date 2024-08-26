@@ -66,11 +66,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 The final model achieved the following results:
 
-- **Accuracy**: [Insert Accuracy]
-- **Precision**: [Insert Precision]
-- **Recall**: [Insert Recall]
-- **F1-Score**: [Insert F1-Score]
-- **ROC-AUC**: [Insert ROC-AUC]
+- **Accuracy**: 93.9%
+- **Precision**: 97%
+- **Recall**: 93%
+- **F1-Score**: 95%
+- **ROC-AUC**: 96
 
 These results demonstrate the model's effectiveness in detecting fraudulent transactions, balancing the trade-off between catching fraud and avoiding false positives.
 
@@ -82,4 +82,4 @@ To run the notebook, clone this repository and execute the `Credit_Card_Fraud_De
 git clone https://github.com/Conccurer/Credit-Card-Fraud-Detection.git
 cd Credit-Card-Fraud-Detection
 jupyter notebook Credit_Card_Fraud_Detection.ipynb
-
+```
